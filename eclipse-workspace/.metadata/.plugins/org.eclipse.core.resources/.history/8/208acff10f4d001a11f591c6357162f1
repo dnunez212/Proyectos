@@ -1,0 +1,5 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa','bb','da@ho','2018-04-03');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa1','bb','da@hoo','2018-05-03');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa2','bb','da@g','2018-05-04');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa3','bb','da@ss','2018-05-05');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa4','bb','da@mm','2018-05-06');

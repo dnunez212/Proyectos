@@ -1,0 +1,10 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa','bb','da@ho','2018-04-03');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa1','bb','da@hoo','2018-05-03');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa2','bb','da@g','2018-05-04');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa3','bb','da@ss','2018-05-05');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa4','bb','da@mm','2018-05-06');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa5','bb','da@ho','2018-04-07');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa6','bb','da@hoo','2018-05-08');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa7','bb','da@g','2018-05-09');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa8','bb','da@ss','2018-05-10');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa9','bb','da@mm','2018-05-11');
