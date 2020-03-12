@@ -8,3 +8,4 @@ INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa6','bb','da@
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa7','bb','da@g','2018-05-09');
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa8','bb','da@ss','2018-05-10');
 INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa9','bb','da@mm','2018-05-11');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('aa10','bb','da@uyy','2018-05-11');
